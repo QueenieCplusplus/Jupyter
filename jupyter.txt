@@ -1,0 +1,22 @@
+#2020.3/19 by QueenPy
+#usage of Notebook
+
+# $ jupyter notebook
+
+# [NotebookApp] Writing notebook server cookie secret to C:\Users\109009\AppData\Roaming\jupyter\runtime\notebook_cookie_secret
+# [NotebookApp] Serving notebooks from local directory: C:\Users\109009\Desktop\data_sci-
+# [NotebookApp] The Jupyter Notebook is running at:
+# [NotebookApp] http://localhost:8888/?token=2da808afb0f85f37fe2058ada03c90c5a64bda08b0b1e731       
+# [NotebookApp]  or http://127.0.0.1:8888/?token=2da808afb0f85f37fe2058ada03c90c5a64bda08b0b1e731   
+# [NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+# [NotebookApp] To access the notebook, open this file in a browser:
+
+#         file:///C:/Users/109009/AppData/Roaming/jupyter/runtime/nbserver-18372-open.html
+
+#     Or copy and paste one of these URLs:
+
+#         http://localhost:8888/?token=2da808afb0f85f37fe2058ada03c90c5a64bda08b0b1e731
+
+#      or 
+     
+#         http://127.0.0.1:8888/?token=2da808afb0f85f37fe2058ada03c90c5a64bda08b0b1e731
