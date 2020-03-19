@@ -8,5 +8,3 @@
 
 Both of them are trying to make the working env in GUI status. And Notbook has more gadgets 
 than Shell, allowing developer to format the data, statements, and widget in JS.
-
-------------------------------------------------------------------------------------
