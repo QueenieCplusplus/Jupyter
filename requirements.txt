@@ -1,6 +1,5 @@
 # pip install -r requirements.txt 
 
-ipython==7.13.0
 jupyter==2.2.0
 
 # jupyter --version
